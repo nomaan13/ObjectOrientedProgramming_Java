@@ -26,26 +26,6 @@ public class ValueOf {
 		String d2 = String.valueOf(d);
 		
 		System.out.println(d2);
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	}
 	
 
